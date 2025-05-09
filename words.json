@@ -1,0 +1,63 @@
+[
+    {   
+        "word_num": "1",
+        "word": "hope",
+        "translations": {
+            "greek": "ελπίδα",
+            "german": "Hoffnung",
+            "spanish": "esperanza",
+            "french": "espoir",
+            "italian": "speranza",
+            "russian": "надежда (nadezhda)"
+        }
+    },
+    {
+        "word_num": "2",
+        "word": "love",
+        "translations": {
+            "greek": "αγάπη",
+            "german": "Liebe",
+            "spanish": "amor",
+            "french": "amour",
+            "italian": "amore",
+            "russian": "любовь (lyubov)"
+        }
+    },
+    {
+        "word_num": "3",
+        "word": "peace",
+        "translations": {
+            "greek": "ειρήνη",
+            "german": "Frieden",
+            "spanish": "paz",
+            "french": "paix",
+            "italian": "pace",
+            "russian": "мир (mir)"
+        }
+    },
+    {
+        "word_num": "4",
+        "word": "freedom",
+        "translations": {
+          "greek": "ελευθερία",
+          "german": "Freiheit",
+          "spanish": "libertad",
+          "french": "liberté",
+          "italian": "libertà",
+          "russian": "свобода (svoboda)"
+        }
+    },
+    {
+        "word_num": "5",
+        "word": "mountain",
+        "translations": {
+          "greek": "βουνό",
+          "german": "Berg",
+          "spanish": "montaña",
+          "french": "montagne",
+          "italian": "montagna",
+          "russian": "гора (gora)"
+        }
+      }
+      
+]
