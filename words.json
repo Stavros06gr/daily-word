@@ -39,25 +39,605 @@
         "word_num": "4",
         "word": "freedom",
         "translations": {
-          "greek": "ελευθερία",
-          "german": "Freiheit",
-          "spanish": "libertad",
-          "french": "liberté",
-          "italian": "libertà",
-          "russian": "свобода (svoboda)"
+            "greek": "ελευθερία",
+            "german": "Freiheit",
+            "spanish": "libertad",
+            "french": "liberté",
+            "italian": "libertà",
+            "russian": "свобода (svoboda)"
         }
     },
     {
         "word_num": "5",
         "word": "mountain",
         "translations": {
-          "greek": "βουνό",
-          "german": "Berg",
-          "spanish": "montaña",
-          "french": "montagne",
-          "italian": "montagna",
-          "russian": "гора (gora)"
+            "greek": "βουνό",
+            "german": "Berg",
+            "spanish": "montaña",
+            "french": "montagne",
+            "italian": "montagna",
+            "russian": "гора (gora)"
         }
-      }
+    },
+    {
+        "word_num": "6",
+        "word": "river",
+        "translations": {
+            "greek": "ποταμός",
+            "german": "Fluss",
+            "spanish": "río",
+            "french": "rivière",
+            "italian": "fiume",
+            "russian": "река (reka)"
+        }
+    },
+    {
+        "word_num": "7",
+        "word": "ocean",
+        "translations": {
+            "greek": "ωκεανός",
+            "german": "Ozean",
+            "spanish": "océano",
+            "french": "océan",
+            "italian": "oceano",
+            "russian": "океан (okean)"
+        }
+    },
+    {
+        "word_num": "8",
+        "word": "water",
+        "translations": {
+            "greek": "νερό",
+            "german": "Wasser",
+            "spanish": "agua",
+            "french": "eau",
+            "italian": "acqua",
+            "russian": "вода (voda)"
+        }
+    },
+    {
+        "word_num": "9",
+        "word": "food",
+        "translations": {
+            "greek": "φαγητό",
+            "german": "Essen",
+            "spanish": "comida",
+            "french": "nourriture",
+            "italian": "cibo",
+            "russian": "еда (yeda)"
+        }
+    },
+    {
+        "word_num": "10",
+        "word": "house",
+        "translations": {
+            "greek": "σπίτι",
+            "german": "Haus",
+            "spanish": "casa",
+            "french": "maison",
+            "italian": "casa",
+            "russian": "дом (dom)"
+        }
+    },
+    {
+        "word_num": "11",
+        "word": "friend",
+        "translations": {
+            "greek": "φίλος",
+            "german": "Freund",
+            "spanish": "amigo",
+            "french": "ami",
+            "italian": "amico",
+            "russian": "друг (drug)"
+        }
+    },
+    {
+        "word_num": "12",
+        "word": "car",
+        "translations": {
+            "greek": "αυτοκίνητο",
+            "german": "Auto",
+            "spanish": "coche",
+            "french": "voiture",
+            "italian": "macchina",
+            "russian": "машина (mashina)"
+        }
+    },
+    {
+        "word_num": "13",
+        "word": "phone",
+        "translations": {
+            "greek": "τηλέφωνο",
+            "german": "Telefon",
+            "spanish": "teléfono",
+            "french": "téléphone",
+            "italian": "telefono",
+            "russian": "телефон (telefon)"
+        }
+    },
+    {
+        "word_num": "14",
+        "word": "school",
+        "translations": {
+            "greek": "σχολείο",
+            "german": "Schule",
+            "spanish": "escuela",
+            "french": "école",
+            "italian": "scuola",
+            "russian": "школа (shkola)"
+        }
+    },
+    {
+        "word_num": "15",
+        "word": "family",
+        "translations": {
+            "greek": "οικογένεια",
+            "german": "Familie",
+            "spanish": "familia",
+            "french": "famille",
+            "italian": "famiglia",
+            "russian": "семья (sem'ya)"
+        }
+    },
+    {
+        "word_num": "16",
+        "word": "money",
+        "translations": {
+            "greek": "χρήματα",
+            "german": "Geld",
+            "spanish": "dinero",
+            "french": "argent",
+            "italian": "soldi",
+            "russian": "деньги (dengi)"
+        }
+    },
+    {
+        "word_num": "17",
+        "word": "work",
+        "translations": {
+            "greek": "δουλειά",
+            "german": "Arbeit",
+            "spanish": "trabajo",
+            "french": "travail",
+            "italian": "lavoro",
+            "russian": "работа (rabota)"
+        }
+    },
+    {
+        "word_num": "18",
+        "word": "sun",
+        "translations": {
+            "greek": "ήλιος",
+            "german": "Sonne",
+            "spanish": "sol",
+            "french": "soleil",
+            "italian": "sole",
+            "russian": "солнце (solntse)"
+        }
+    },
+    {
+        "word_num": "19",
+        "word": "day",
+        "translations": {
+            "greek": "μέρα",
+            "german": "Tag",
+            "spanish": "día",
+            "french": "jour",
+            "italian": "giorno",
+            "russian": "день (den')"
+        }
+    },
+    {
+        "word_num": "20",
+        "word": "night",
+        "translations": {
+            "greek": "νύχτα",
+            "german": "Nacht",
+            "spanish": "noche",
+            "french": "nuit",
+            "italian": "notte",
+            "russian": "ночь (noch')"
+        }
+    },
+    {
+        "word_num": "21",
+        "word": "computer",
+        "translations": {
+            "greek": "υπολογιστής",
+            "german": "Computer",
+            "spanish": "computadora",
+            "french": "ordinateur",
+            "italian": "computer",
+            "russian": "компьютер (kompyuter)"
+        }
+    },
+    {
+        "word_num": "22",
+        "word": "coffee",
+        "translations": {
+            "greek": "καφές",
+            "german": "Kaffee",
+            "spanish": "café",
+            "french": "café",
+            "italian": "caffè",
+            "russian": "кофе (kofe)"
+        }
+    },
+    {
+        "word_num": "23",
+        "word": "book",
+        "translations": {
+            "greek": "βιβλίο",
+            "german": "Buch",
+            "spanish": "libro",
+            "french": "livre",
+            "italian": "libro",
+            "russian": "книга (kniga)"
+        }
+    },
+    {
+        "word_num": "24",
+        "word": "door",
+        "translations": {
+            "greek": "πόρτα",
+            "german": "Tür",
+            "spanish": "puerta",
+            "french": "porte",
+            "italian": "porta",
+            "russian": "дверь (dver')"
+        }
+    },
+    {
+        "word_num": "25",
+        "word": "window",
+        "translations": {
+            "greek": "παράθυρο",
+            "german": "Fenster",
+            "spanish": "ventana",
+            "french": "fenêtre",
+            "italian": "finestra",
+            "russian": "окно (okno)"
+        }
+    },
+    {
+        "word_num": "26",
+        "word": "city",
+        "translations": {
+            "greek": "πόλη",
+            "german": "Stadt",
+            "spanish": "ciudad",
+            "french": "ville",
+            "italian": "città",
+            "russian": "город (gorod)"
+        }
+    },
+    {
+        "word_num": "27",
+        "word": "street",
+        "translations": {
+            "greek": "οδός",
+            "german": "Straße",
+            "spanish": "calle",
+            "french": "rue",
+            "italian": "strada",
+            "russian": "улица (ulitsa)"
+        }
+    },
+    {
+        "word_num": "28",
+        "word": "chair",
+        "translations": {
+            "greek": "καρέκλα",
+            "german": "Stuhl",
+            "spanish": "silla",
+            "french": "chaise",
+            "italian": "sedia",
+            "russian": "стул (stul)"
+        }
+    },
+    {
+        "word_num": "29",
+        "word": "table",
+        "translations": {
+            "greek": "τραπέζι",
+            "german": "Tisch",
+            "spanish": "mesa",
+            "french": "table",
+            "italian": "tavolo",
+            "russian": "стол (stol)"
+        }
+    },
+    {
+        "word_num": "30",
+        "word": "mother",
+        "translations": {
+            "greek": "μητέρα",
+            "german": "Mutter",
+            "spanish": "madre",
+            "french": "mère",
+            "italian": "madre",
+            "russian": "мать (mat')"
+        }
+    },
+    {
+        "word_num": "31",
+        "word": "father",
+        "translations": {
+            "greek": "πατέρας",
+            "german": "Vater",
+            "spanish": "padre",
+            "french": "père",
+            "italian": "padre",
+            "russian": "отец (otets)"
+        }
+    },
+    {
+        "word_num": "32",
+        "word": "child",
+        "translations": {
+            "greek": "παιδί",
+            "german": "Kind",
+            "spanish": "niño",
+            "french": "enfant",
+            "italian": "bambino",
+            "russian": "ребёнок (rebyonok)"
+        }
+    },
+    {
+        "word_num": "33",
+        "word": "dog",
+        "translations": {
+            "greek": "σκύλος",
+            "german": "Hund",
+            "spanish": "perro",
+            "french": "chien",
+            "italian": "cane",
+            "russian": "собака (sobaka)"
+        }
+    },
+    {
+        "word_num": "34",
+        "word": "cat",
+        "translations": {
+            "greek": "γάτα",
+            "german": "Katze",
+            "spanish": "gato",
+            "french": "chat",
+            "italian": "gatto",
+            "russian": "кошка (koshka)"
+        }
+    },
+    {
+        "word_num": "35",
+        "word": "hand",
+        "translations": {
+            "greek": "χέρι",
+            "german": "Hand",
+            "spanish": "mano",
+            "french": "main",
+            "italian": "mano",
+            "russian": "рука (ruka)"
+        }
+    },
+    {
+        "word_num": "36",
+        "word": "eye",
+        "translations": {
+            "greek": "μάτι",
+            "german": "Auge",
+            "spanish": "ojo",
+            "french": "œil",
+            "italian": "occhio",
+            "russian": "глаз (glaz)"
+        }
+    },
+    {
+        "word_num": "37",
+        "word": "bread",
+        "translations": {
+            "greek": "ψωμί",
+            "german": "Brot",
+            "spanish": "pan",
+            "french": "pain",
+            "italian": "pane",
+            "russian": "хлеб (khleb)"
+        }
+    },
+    {
+        "word_num": "38",
+        "word": "milk",
+        "translations": {
+            "greek": "γάλα",
+            "german": "Milch",
+            "spanish": "leche",
+            "french": "lait",
+            "italian": "latte",
+            "russian": "молоко (moloko)"
+        }
+    },
+    {
+        "word_num": "39",
+        "word": "bed",
+        "translations": {
+            "greek": "κρεβάτι",
+            "german": "Bett",
+            "spanish": "cama",
+            "french": "lit",
+            "italian": "letto",
+            "russian": "кровать (krovat')"
+        }
+    },
+    {
+        "word_num": "40",
+        "word": "bathroom",
+        "translations": {
+            "greek": "μπάνιο",
+            "german": "Badezimmer",
+            "spanish": "baño",
+            "french": "salle de bain",
+            "italian": "bagno",
+            "russian": "ванная (vannaya)"
+        }
+    },
+    {
+        "word_num": "41",
+        "word": "market",
+        "translations": {
+            "greek": "αγορά",
+            "german": "Markt",
+            "spanish": "mercado",
+            "french": "marché",
+            "italian": "mercato",
+            "russian": "рынок (rynok)"
+        }
+    },
+    {
+        "word_num": "42",
+        "word": "bus",
+        "translations": {
+            "greek": "λεωφορείο",
+            "german": "Bus",
+            "spanish": "autobús",
+            "french": "bus",
+            "italian": "autobus",
+            "russian": "автобус (avtobus)"
+        }
+    },
+    {
+        "word_num": "43",
+        "word": "train",
+        "translations": {
+            "greek": "τρένο",
+            "german": "Zug",
+            "spanish": "tren",
+            "french": "train",
+            "italian": "treno",
+            "russian": "поезд (poezd)"
+        }
+    },
+    {
+        "word_num": "44",
+        "word": "airport",
+        "translations": {
+            "greek": "αεροδρόμιο",
+            "german": "Flughafen",
+            "spanish": "aeropuerto",
+            "french": "aéroport",
+            "italian": "aeroporto",
+            "russian": "аэропорт (aeroport)"
+        }
+    },
+    {
+        "word_num": "45",
+        "word": "hospital",
+        "translations": {
+            "greek": "νοσοκομείο",
+            "german": "Krankenhaus",
+            "spanish": "hospital",
+            "french": "hôpital",
+            "italian": "ospedale",
+            "russian": "больница (bol'nitsa)"
+        }
+    },
+    {
+        "word_num": "46",
+        "word": "doctor",
+        "translations": {
+            "greek": "γιατρός",
+            "german": "Arzt",
+            "spanish": "doctor",
+            "french": "médecin",
+            "italian": "dottore",
+            "russian": "врач (vrach)"
+        }
+    },
+    {
+        "word_num": "47",
+        "word": "shoes",
+        "translations": {
+            "greek": "παπούτσια",
+            "german": "Schuhe",
+            "spanish": "zapatos",
+            "french": "chaussures",
+            "italian": "scarpe",
+            "russian": "обувь (obuv')"
+        }
+    },
+    {
+        "word_num": "48",
+        "word": "clothes",
+        "translations": {
+            "greek": "ρούχα",
+            "german": "Kleidung",
+            "spanish": "ropa",
+            "french": "vêtements",
+            "italian": "vestiti",
+            "russian": "одежда (odezhda)"
+        }
+    },
+    {
+        "word_num": "49",
+        "word": "store",
+        "translations": {
+            "greek": "κατάστημα",
+            "german": "Geschäft",
+            "spanish": "tienda",
+            "french": "magasin",
+            "italian": "negozio",
+            "russian": "магазин (magazin)"
+        }
+    },
+    {
+        "word_num": "50",
+        "word": "key",
+        "translations": {
+            "greek": "κλειδί",
+            "german": "Schlüssel",
+            "spanish": "llave",
+            "french": "clé",
+            "italian": "chiave",
+            "russian": "ключ (klyuch)"
+        }
+    },
+    {
+        "word_num": "51",
+        "word": "light",
+        "translations": {
+            "greek": "φως",
+            "german": "Licht",
+            "spanish": "luz",
+            "french": "lumière",
+            "italian": "luce",
+            "russian": "свет (svet)"
+        }
+    },
+    {
+        "word_num": "52",
+        "word": "fire",
+        "translations": {
+            "greek": "φωτιά",
+            "german": "Feuer",
+            "spanish": "fuego",
+            "french": "feu",
+            "italian": "fuoco",
+            "russian": "огонь (ogon')"
+        }
+    },
+    {
+        "word_num": "53",
+        "word": "cold",
+        "translations": {
+            "greek": "κρύο",
+            "german": "Kälte",
+            "spanish": "frío",
+            "french": "froid",
+            "italian": "freddo",
+            "russian": "холод (kholod)"
+        }
+    }
+
+
+
+
       
 ]
