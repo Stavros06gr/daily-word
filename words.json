@@ -634,7 +634,693 @@
             "italian": "freddo",
             "russian": "холод (kholod)"
         }
+    },
+    {
+        "word_num": "54",
+        "word": "hot",
+        "translations": {
+            "greek": "ζεστός",
+            "german": "heiß",
+            "spanish": "caliente",
+            "french": "chaud",
+            "italian": "caldo",
+            "russian": "горячий (goryachiy)"
+        }
+    },
+    {
+        "word_num": "55",
+        "word": "rain",
+        "translations": {
+            "greek": "βροχή",
+            "german": "Regen",
+            "spanish": "lluvia",
+            "french": "pluie",
+            "italian": "pioggia",
+            "russian": "дождь (dozhd')"
+        }
+    },
+    {
+        "word_num": "56",
+        "word": "moon",
+        "translations": {
+            "greek": "φεγγάρι",
+            "german": "Mond",
+            "spanish": "luna",
+            "french": "lune",
+            "italian": "luna",
+            "russian": "луна (luna)"
+        }
+    },
+    {
+        "word_num": "57",
+        "word": "star",
+        "translations": {
+            "greek": "αστέρι",
+            "german": "Stern",
+            "spanish": "estrella",
+            "french": "étoile",
+            "italian": "stella",
+            "russian": "звезда (zvezda)"
+        }
+    },
+    {
+        "word_num": "58",
+        "word": "sky",
+        "translations": {
+            "greek": "ουρανός",
+            "german": "Himmel",
+            "spanish": "cielo",
+            "french": "ciel",
+            "italian": "cielo",
+            "russian": "небо (nebo)"
+        }
+    },
+    {
+        "word_num": "59",
+        "word": "heart",
+        "translations": {
+            "greek": "καρδιά",
+            "german": "Herz",
+            "spanish": "corazón",
+            "french": "cœur",
+            "italian": "cuore",
+            "russian": "сердце (serdtse)"
+        }
+    },
+    {
+        "word_num": "60",
+        "word": "head",
+        "translations": {
+            "greek": "κεφάλι",
+            "german": "Kopf",
+            "spanish": "cabeza",
+            "french": "tête",
+            "italian": "testa",
+            "russian": "голова (golova)"
+        }
+    },
+    {
+        "word_num": "61",
+        "word": "happy",
+        "translations": {
+            "greek": "χαρούμενος",
+            "german": "glücklich",
+            "spanish": "feliz",
+            "french": "heureux",
+            "italian": "felice",
+            "russian": "счастливый (schastlivyy)"
+        }
+    },
+    {
+        "word_num": "62",
+        "word": "sad",
+        "translations": {
+            "greek": "λυπημένος",
+            "german": "traurig",
+            "spanish": "triste",
+            "french": "triste",
+            "italian": "triste",
+            "russian": "грустный (grustnyy)"
+        }
+    },
+    {
+        "word_num": "63",
+        "word": "run",
+        "translations": {
+            "greek": "τρέχω",
+            "german": "laufen",
+            "spanish": "correr",
+            "french": "courir",
+            "italian": "correre",
+            "russian": "бежать (bezhat')"
+        }
+    },
+    {
+        "word_num": "64",
+        "word": "eat",
+        "translations": {
+            "greek": "τρώω",
+            "german": "essen",
+            "spanish": "comer",
+            "french": "manger",
+            "italian": "mangiare",
+            "russian": "есть (yest')"
+        }
+    },
+    {
+        "word_num": "65",
+        "word": "drink",
+        "translations": {
+            "greek": "πίνω",
+            "german": "trinken",
+            "spanish": "beber",
+            "french": "boire",
+            "italian": "bere",
+            "russian": "пить (pit')"
+        }
+    },
+    {
+        "word_num": "66",
+        "word": "soap",
+        "translations": {
+            "greek": "σαπούνι",
+            "german": "Seife",
+            "spanish": "jabón",
+            "french": "savon",
+            "italian": "sapone",
+            "russian": "мыло (mylo)"
+        }
+    },
+    {
+        "word_num": "67",
+        "word": "towel",
+        "translations": {
+            "greek": "πετσέτα",
+            "german": "Handtuch",
+            "spanish": "toalla",
+            "french": "serviette",
+            "italian": "asciugamano",
+            "russian": "полотенце (polotentse)"
+        }
+    },
+    {
+        "word_num": "68",
+        "word": "toothbrush",
+        "translations": {
+            "greek": "οδοντόβουρτσα",
+            "german": "Zahnbürste",
+            "spanish": "cepillo de dientes",
+            "french": "brosse à dents",
+            "italian": "spazzolino",
+            "russian": "зубная щётка (zubnaya shchotka)"
+        }
+    },
+    {
+        "word_num": "69",
+        "word": "hair",
+        "translations": {
+            "greek": "μαλλιά",
+            "german": "Haare",
+            "spanish": "cabello",
+            "french": "cheveux",
+            "italian": "capelli",
+            "russian": "волосы (volosy)"
+        }
+    },
+    {
+        "word_num": "70",
+        "word": "mirror",
+        "translations": {
+            "greek": "καθρέφτης",
+            "german": "Spiegel",
+            "spanish": "espejo",
+            "french": "miroir",
+            "italian": "specchio",
+            "russian": "зеркало (zerkalo)"
+        }
+    },
+    {
+        "word_num": "71",
+        "word": "clock",
+        "translations": {
+            "greek": "ρολόι",
+            "german": "Uhr",
+            "spanish": "reloj",
+            "french": "horloge",
+            "italian": "orologio",
+            "russian": "часы (chasy)"
+        }
+    },
+    {
+        "word_num": "72",
+        "word": "bag",
+        "translations": {
+            "greek": "τσάντα",
+            "german": "Tasche",
+            "spanish": "bolsa",
+            "french": "sac",
+            "italian": "borsa",
+            "russian": "сумка (sumka)"
+        }
+    },
+    {
+        "word_num": "73",
+        "word": "pen",
+        "translations": {
+            "greek": "στυλό",
+            "german": "Stift",
+            "spanish": "bolígrafo",
+            "french": "stylo",
+            "italian": "penna",
+            "russian": "ручка (ruchka)"
+        }
+    },
+    {
+        "word_num": "74",
+        "word": "paper",
+        "translations": {
+            "greek": "χαρτί",
+            "german": "Papier",
+            "spanish": "papel",
+            "french": "papier",
+            "italian": "carta",
+            "russian": "бумага (bumaga)"
+        }
+    },
+    {
+        "word_num": "75",
+        "word": "floor",
+        "translations": {
+            "greek": "πάτωμα",
+            "german": "Boden",
+            "spanish": "suelo",
+            "french": "sol",
+            "italian": "pavimento",
+            "russian": "пол (pol)"
+        }
+    },
+    {
+        "word_num": "76",
+        "word": "walk",
+        "translations": {
+            "greek": "περπατώ",
+            "german": "gehen",
+            "spanish": "caminar",
+            "french": "marcher",
+            "italian": "camminare",
+            "russian": "ходить (khodit')"
+        }
+    },
+    {
+        "word_num": "77",
+        "word": "sleep",
+        "translations": {
+            "greek": "κοιμάμαι",
+            "german": "schlafen",
+            "spanish": "dormir",
+            "french": "dormir",
+            "italian": "dormire",
+            "russian": "спать (spat')"
+        }
+    },
+    {
+        "word_num": "78",
+        "word": "write",
+        "translations": {
+            "greek": "γράφω",
+            "german": "schreiben",
+            "spanish": "escribir",
+            "french": "écrire",
+            "italian": "scrivere",
+            "russian": "писать (pisat')"
+        }
+    },
+    {
+        "word_num": "79",
+        "word": "read",
+        "translations": {
+            "greek": "διαβάζω",
+            "german": "lesen",
+            "spanish": "leer",
+            "french": "lire",
+            "italian": "leggere",
+            "russian": "читать (chitat')"
+        }
+    },
+    {
+        "word_num": "80",
+        "word": "cook",
+        "translations": {
+            "greek": "μαγειρεύω",
+            "german": "kochen",
+            "spanish": "cocinar",
+            "french": "cuisiner",
+            "italian": "cucinare",
+            "russian": "готовить (gotovit')"
+        }
+    },
+    {
+        "word_num": "81",
+        "word": "clean",
+        "translations": {
+            "greek": "καθαρίζω",
+            "german": "putzen",
+            "spanish": "limpiar",
+            "french": "nettoyer",
+            "italian": "pulire",
+            "russian": "чистить (chistit')"
+        }
+    },
+    {
+        "word_num": "82",
+        "word": "listen",
+        "translations": {
+            "greek": "ακούω",
+            "german": "hören",
+            "spanish": "escuchar",
+            "french": "écouter",
+            "italian": "ascoltare",
+            "russian": "слушать (slushat')"
+        }
+    },
+    {
+        "word_num": "83",
+        "word": "talk",
+        "translations": {
+            "greek": "μιλάω",
+            "german": "sprechen",
+            "spanish": "hablar",
+            "french": "parler",
+            "italian": "parlare",
+            "russian": "говорить (govorit')"
+        }
+    },
+    {
+        "word_num": "84",
+        "word": "sit",
+        "translations": {
+            "greek": "κάθομαι",
+            "german": "sitzen",
+            "spanish": "sentarse",
+            "french": "s'asseoir",
+            "italian": "sedersi",
+            "russian": "сидеть (sidet')"
+        }
+    },
+    {
+        "word_num": "85",
+        "word": "parallel",
+        "translations": {
+            "greek": "παράλληλος",
+            "german": "parallel",
+            "spanish": "paralelo",
+            "french": "parallèle",
+            "italian": "parallelo",
+            "russian": "параллельный (paralel'nyy)"
+        }
+    },
+    {
+        "word_num": "86",
+        "word": "air",
+        "translations": {
+            "greek": "αέρας",
+            "german": "Luft",
+            "spanish": "aire",
+            "french": "air",
+            "italian": "aria",
+            "russian": "воздух (vozdukh)"
+        }
+    },
+    {
+        "word_num": "87",
+        "word": "finale",
+        "translations": {
+            "greek": "φιναλε",
+            "german": "Finale",
+            "spanish": "final",
+            "french": "finale",
+            "italian": "finale",
+            "russian": "финал (final)"
+        }
+    },
+        {
+        "word_num": "88",
+        "word": "daylight",
+        "translations": {
+            "greek": "φως της ημέρας",
+            "german": "Tageslicht",
+            "spanish": "luz del día",
+            "french": "lumière du jour",
+            "italian": "luce del giorno",
+            "russian": "дневной свет (dnevnoy svet)"
+        }
+    },
+    {
+        "word_num": "89",
+        "word": "movie",
+        "translations": {
+            "greek": "ταινία",
+            "german": "Film",
+            "spanish": "película",
+            "french": "film",
+            "italian": "film",
+            "russian": "фильм (film)"
+        }
+    },
+    {
+        "word_num": "90",
+        "word": "zero",
+        "translations": {
+            "greek": "μηδέν",
+            "german": "null",
+            "spanish": "cero",
+            "french": "zéro",
+            "italian": "zero",
+            "russian": "ноль (nol')"
+        }
+    },
+    {
+        "word_num": "91",
+        "word": "one",
+        "translations": {
+            "greek": "ένα",
+            "german": "eins",
+            "spanish": "uno",
+            "french": "un",
+            "italian": "uno",
+            "russian": "один (odin)"
+        }
+    },
+    {
+        "word_num": "92",
+        "word": "two",
+        "translations": {
+            "greek": "δύο",
+            "german": "zwei",
+            "spanish": "dos",
+            "french": "deux",
+            "italian": "due",
+            "russian": "два (dva)"
+        }
+    },
+    {
+        "word_num": "93",
+        "word": "three",
+        "translations": {
+            "greek": "τρία",
+            "german": "drei",
+            "spanish": "tres",
+            "french": "trois",
+            "italian": "tre",
+            "russian": "три (tri)"
+        }
+    },
+    {
+        "word_num": "94",
+        "word": "four",
+        "translations": {
+            "greek": "τέσσερα",
+            "german": "vier",
+            "spanish": "cuatro",
+            "french": "quatre",
+            "italian": "quattro",
+            "russian": "четыре (chetyre)"
+        }
+    },
+    {
+        "word_num": "95",
+        "word": "five",
+        "translations": {
+            "greek": "πέντε",
+            "german": "fünf",
+            "spanish": "cinco",
+            "french": "cinq",
+            "italian": "cinque",
+            "russian": "пять (pyat')"
+        }
+    },
+    {
+        "word_num": "96",
+        "word": "six",
+        "translations": {
+            "greek": "έξι",
+            "german": "sechs",
+            "spanish": "seis",
+            "french": "six",
+            "italian": "sei",
+            "russian": "шесть (shest')"
+        }
+    },
+    {
+        "word_num": "97",
+        "word": "seven",
+        "translations": {
+            "greek": "επτά",
+            "german": "sieben",
+            "spanish": "siete",
+            "french": "sept",
+            "italian": "sette",
+            "russian": "семь (sem')"
+        }
+    },
+    {
+        "word_num": "98",
+        "word": "eight",
+        "translations": {
+            "greek": "οκτώ",
+            "german": "acht",
+            "spanish": "ocho",
+            "french": "huit",
+            "italian": "otto",
+            "russian": "восемь (vosem')"
+        }
+    },
+    {
+        "word_num": "99",
+        "word": "nine",
+        "translations": {
+            "greek": "εννέα",
+            "german": "neun",
+            "spanish": "nueve",
+            "french": "neuf",
+            "italian": "nove",
+            "russian": "девять (devyat')"
+        }
+    },
+    {
+        "word_num": "100",
+        "word": "ten",
+        "translations": {
+            "greek": "δέκα",
+            "german": "zehn",
+            "spanish": "diez",
+            "french": "dix",
+            "italian": "dieci",
+            "russian": "десять (desyat')"
+        }
+    },
+    {
+        "word_num": "101",
+        "word": "bow",
+        "translations": {
+            "greek": "τόξο",
+            "german": "Bogen",
+            "spanish": "arco",
+            "french": "arc",
+            "italian": "arco",
+            "russian": "лук (luk)"
+        }
+    },
+    {
+        "word_num": "102",
+        "word": "sober",
+        "translations": {
+            "greek": "νηφάλιος",
+            "german": "nüchtern",
+            "spanish": "sobrio",
+            "french": "sobre",
+            "italian": "sobrio",
+            "russian": "трезвый (trezvy)"
+        }
+    },
+    {
+        "word_num": "103",
+        "word": "double",
+        "translations": {
+            "greek": "διπλός",
+            "german": "doppelt",
+            "spanish": "doble",
+            "french": "double",
+            "italian": "doppio",
+            "russian": "двойной (dvoynoy)"
+        }
+    },
+    {
+        "word_num": "104",
+        "word": "triple",
+        "translations": {
+            "greek": "τριπλός",
+            "german": "dreifach",
+            "spanish": "triple",
+            "french": "triple",
+            "italian": "triplo",
+            "russian": "тройной (troynoy)"
+        }
+    },
+    {
+        "word_num": "105",
+        "word": "gang",
+        "translations": {
+            "greek": "σπείρα",
+            "german": "Bande",
+            "spanish": "banda",
+            "french": "bande",
+            "italian": "banda",
+            "russian": "банда (banda)"
+        }
+    },
+    {
+        "word_num": "106",
+        "word": "brand",
+        "translations": {
+            "greek": "μάρκα",
+            "german": "Marke",
+            "spanish": "marca",
+            "french": "marque",
+            "italian": "marca",
+            "russian": "марка (marka)"
+        }
+    },
+    {
+        "word_num": "107",
+        "word": "giant",
+        "translations": {
+            "greek": "γίγαντας",
+            "german": "Riese",
+            "spanish": "gigante",
+            "french": "géant",
+            "italian": "gigante",
+            "russian": "гигант (gigant)"
+        }
+    },
+    {
+        "word_num": "108",
+        "word": "safe",
+        "translations": {
+            "greek": "ασφαλής",
+            "german": "sicher",
+            "spanish": "seguro",
+            "french": "sûr",
+            "italian": "sicuro",
+            "russian": "безопасный (bezopasnyy)"
+        }
+    },
+    {
+        "word_num": "109",
+        "word": "public",
+        "translations": {
+            "greek": "δημόσιος",
+            "german": "öffentlich",
+            "spanish": "público",
+            "french": "public",
+            "italian": "pubblico",
+            "russian": "публичный (publichnyy)"
+        }
+    },
+    {
+        "word_num": "110",
+        "word": "hide",
+        "translations": {
+            "greek": "κρύβω",
+            "german": "verstecken",
+            "spanish": "esconder",
+            "french": "cacher",
+            "italian": "nascondere",
+            "russian": "скрывать (skryvat')"
+        }
     }
+
+
 
 
 
